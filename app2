@@ -1,0 +1,25 @@
+EC2
+Instances
+i-08710f076eae87612
+Connect to instance
+Connect to instanceInfo
+Connect to your instance i-08710f076eae87612 (GIT_practice) using any of these options
+
+
+EC2 Instance Connect
+
+Session Manager
+
+SSH client
+
+EC2 serial console
+Instance ID
+i-08710f076eae87612 (GIT_practice)
+Public IP address
+ 18.141.186.131
+User name
+ec2-user
+Connect using a custom user name, or use the default user name ec2-user for the AMI used to launch the instance.
+Note: In most cases, the guessed user name is correct. However, read your AMI usage instructions to check if the AMI owner has changed the default AMI user name.
+Cancel
+Connect
